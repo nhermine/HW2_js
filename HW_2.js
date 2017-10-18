@@ -6,7 +6,7 @@ function getMax(array) {
             max = array[i];
         }
     }
-    console.log(max);
+    return max;
 }
 getMax(array = [97, 2, 71, 53, 17])
 getMax(array = [97, 2, 71, 99, 17])
