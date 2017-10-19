@@ -8,8 +8,7 @@ function getMax(array) {
     }
     return max;
 }
-getMax(array = [97, 2, 71, 53, 17])
-getMax(array = [97, 2, 71, 99, 17])
+getMax([97, 2, 71, 53, 17]);
 
 // task_2
 
